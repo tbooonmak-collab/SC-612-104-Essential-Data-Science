@@ -5,5 +5,6 @@
 
 
 ## Resources:
-- Hello Wolrd: [link]()
+- Hello Wolrd: [link](https://github.com/PitchayaW/SC-612-104-Essential-Data-Science/blob/915b1f4331f30819078392c9b2170e970caf029a/Module-A-Notebooks/Hello%20World.ipynb)
+- Flowchart/Pseudocode: [link](https://github.com/PitchayaW/SC-612-104-Essential-Data-Science/blob/915b1f4331f30819078392c9b2170e970caf029a/Module-A-Notebooks/SC612104_Flowchart_Pseudocode_.ipynb)
 - Python Learning: [link](https://pro-python.streamlit.app)
